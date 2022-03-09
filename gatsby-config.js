@@ -16,7 +16,7 @@ module.exports = {
     author: `@tracytucker`,
     titleTemplate: `%s | Gatsby - Airtable`,
     url: `come back to this one`,
-    image: `come back to this one`,
+    image: `BgMain.jpeg`,
     twitterUsername: `@mapTracy`,
   },
   plugins: [

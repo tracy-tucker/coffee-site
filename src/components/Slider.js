@@ -6,7 +6,7 @@ import { FaQuoteRight } from "react-icons/fa"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import { FiChevronRight, FiChevronLeft } from "react-icons/fi"
 
-const Slider = ({ customer = [] }) => {
+const Slider = ({ customers = [] }) => {
   const [index, setIndex] = useState(0)
 
   const nextSlide = () => {
